@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038247887070",
+    "project_id": "shoppingbag-cddce",
+    "storage_bucket": "shoppingbag-cddce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038247887070:android:d0494d2c249f479930c24f",
+        "android_client_info": {
+          "package_name": "com.example.shoppingbag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBidJFkqbJHhhKZlIW4cNTu-N1DIibzgyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
